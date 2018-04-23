@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<HTML>
+ <HEAD>
+  <TITLE> Signup </TITLE>
+ </HEAD>
+
+ <BODY>
+	<h1> !:! AirGnB </h1>
+	<table border="1" bgcolor="white">
+	<FORM>
+	<br>
+	AirGnB에 오신것을 환영합니다.
+	<br>AirGnB는 1:1 맞춤형 온라인 코딩 학습 공유 서비스입니다...<br>
+	....
+	<br>
+	<br>
+	<br>
+
+
+<!--	
+	<tr>
+	<td><input type = "radio" name="gender" value="man">student
+	<input type = "radio" name="gender" value="woman">instructor
+	<br>
+	</td>
+	</tr>
+-->
+
+
+
+
+
+	<tr>
+	<td> NAME </td>
+	<td><input type = "text"/>
+	
+	</td>
+	</tr>
+
+	<tr>
+	<td> E-mail </td>
+	<td><input type = "text"/> @ <input type="text"/>&nbsp;&nbsp;
+	<input type ="button" value="중복확인"/>
+	</td>
+	</tr>
+
+	<tr>
+	<td> PW </td>
+	<td><input type = "password"/>
+	</td>
+	</tr>
+
+	<tr>
+	<td> PW확인 </td>
+	<td><input type = "password"/> &nbsp;*같은 암호를 입력하세요</td>
+	</tr>
+
+	<tr>
+	<td> 휴대폰 </td>
+	<td><input type = "type"/>
+	</td>
+	</tr>
+
+		<tr>
+	<td> 고투미팅 ID </td>
+	<td><input type = "text"/>
+	</td>
+	</tr>
+	
+	</table>
+	<br>
+	<a href = "main.html">확인</a>
+
+	</FORM>
+	</center>
+ </BODY>
+</HTML>

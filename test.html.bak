@@ -1,0 +1,73 @@
+<!--
+
+<form action="/my-handling-form-page" method="post">
+    <div>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="user_name" />
+    </div>
+    <div>
+        <label for="mail">E-mail:</label>
+        <input type="email" id="mail" name="user_email" />
+    </div>
+    <div>
+        <label for="msg">Message:</label>
+        <textarea id="msg" name="user_message"></textarea>
+    </div>
+    
+    <div class="button">
+        <button type="submit">Send your message</button>
+    </div>
+</form>
+
+-->
+
+<!--
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="euc-kr">
+<title>HTML</title>
+<style type="text/css">
+body {
+    background-color: #e7e7e7;
+}
+div {
+    margin : 10px;
+}
+</style>
+</head>
+<body>
+    <form action="test2.txt" id="frm">
+        <div>아이디 : <br/><input type="text" name="id" value=""></div>
+        <div>비밀번호: <br/><input type="text" name="pwd" value=""></div>
+        <div><input type="button"
+                    onclick="document.getElementById('frm').submit();"
+                    value="전송">
+            <a href="#" onclick="document.getElementById('frm').submit();">
+            전송 </a>
+        </div>
+    </form>
+</body>
+</html>
+
+-->
+
+<!DOCTYPE HTML>
+<html>  
+<HEAD>
+  <script language='javascript'>
+ function formChk(){
+    if(document.joinForm1.id.value=='')
+      alert("id를 입력하세요!!");
+
+      document.joinForm1.id.focus();
+  
+</HEAD>
+
+<BODY>                                            
+ <Form name="joinForm1" action="Form.jsp" method="post" 
+ onSubmit="formChk();return false">
+ <input type="submit" value="전송">
+</BODY>
+
+
