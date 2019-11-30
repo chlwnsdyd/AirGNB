@@ -6,5 +6,6 @@
  <br>
  예시)
  <br>
- <img width="600" src="https://user-images.githubusercontent.com/38127338/69897618-eb794380-1391-11ea-869d-99ebc48f0c79.png">
- 
+ <img width="500" src="https://user-images.githubusercontent.com/38127338/69897618-eb794380-1391-11ea-869d-99ebc48f0c79.png">
+ <br>
+ <img width="500" src="https://user-images.githubusercontent.com/38127338/69897635-11064d00-1392-11ea-920b-c2282b2df6c1.png">
