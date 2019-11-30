@@ -1,4 +1,4 @@
-# AirGnB
+# AirGnB (upload한 파일은 prototype)
  1:1 온라인 코딩 교육 플랫폼 구축 프로젝트
  (지도교수 : 박종태 교수님)
  <br>
